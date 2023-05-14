@@ -20,7 +20,7 @@ fastjsonschema==2.16.3
 flake8==6.0.0
 fonttools==4.39.3
 fqdn==1.5.1
-house-prices @ file:///Users/admin-20218/dsp-steve-FOHOUE/house_prices/dist/house_prices-0.1.tar.gz#sha256=3f9a88bd5bd5059d6819e01ca908bd055c3d58fb8506fe884b0c945438295ce5
+house-prices @ file:///Users/admin-20218/Desktop/dsp-steve-FOHOUE/house_prices/dist/house_prices-0.1.tar.gz#sha256=4970dfc7a3418c42904cdbe8bef5b58cf82343d1a13322a42c7510a63f035a05
 idna==3.4
 ipykernel==6.22.0
 ipython==8.13.1

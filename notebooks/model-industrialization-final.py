@@ -10,4 +10,3 @@ user_data_df = pd.read_csv('/Users/admin-20218/Downloads/house-prices-advanced-r
 predictions = make_predictions(user_data_df)
 print(predictions)
 
-
